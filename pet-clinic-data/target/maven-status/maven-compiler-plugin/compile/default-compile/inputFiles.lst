@@ -1,5 +1,14 @@
-/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java
 /home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/OwnerServiceMap.java
 /home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Vet.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/PetServiceMap.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/VetServiceMap.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerService.java
 /home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java
 /home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/BaseEntity.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/AbstractMapService.java
+/home/alexdumbrava/work/Java_Spring_Framework_Beginner_To_Guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/CrudService.java
