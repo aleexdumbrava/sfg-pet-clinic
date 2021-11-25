@@ -6,7 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
 import java.io.Serializable;
 
-// We will inherit from this class, but we don't need this class to be in the database
+// We will inherit from this class, but we don't need this class to be created in the database
 @MappedSuperclass
 public class BaseEntity implements Serializable {
     @Id
